@@ -1,2 +1,6 @@
-# interactive-images-project
-This is my interactive image project for "Nona's Pizza/Gaming Tech Accessories"
+# HTML Project - Nona's Pizza Edited - Toledo
+
+A Pen created on CodePen.
+
+Original URL: [https://codepen.io/tolesan212/pen/KwdpzPX](https://codepen.io/tolesan212/pen/KwdpzPX).
+
